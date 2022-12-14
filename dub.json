@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "Binding for wren",
+	"homepage": "https://github.com/thechampagne/wren-d",
+	"license": "MIT",
+	"name": "wren"
+}
